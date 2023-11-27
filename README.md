@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Maycol @uriberma
-- 👀 I’m interested in Web Development & Cloud
+# Hola!, I'm Maycol! 👋
 
-<!---
-uriberma/uriberma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have a passion for Cloud technologies and bring experience in Java, Kotlin, JavaScript, and TypeScript. My experience extends to practicing Clean Code, Test Driven Development, Domain Driven Design and a deep appreciation for Uncle Bob's philosophy.
+
+Feel free to explore my repositories, and let's connect on our coding journey! 💻✨
