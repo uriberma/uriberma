@@ -6,10 +6,10 @@
 
   <p>
     I build robust backend platforms and products with a strong focus on
-    <strong>reliability</strong>, <strong>scalability</strong>, and <strong>clean architecture</strong>.
+    <strong>reliability</strong>, <strong>scalability</strong> and <strong>clean architecture</strong>.
     <br />
     Currently, I’m heavily focused on <strong>Go-based backend systems</strong>,
-    <strong>distributed architectures</strong>, and <strong>AI-assisted engineering workflows</strong>.
+    <strong>distributed architectures</strong> and <strong>AI-assisted engineering workflows</strong>.
   </p>
 
   <a href="https://www.linkedin.com/in/maycol-uribe-romero-209995119/">
@@ -28,10 +28,10 @@ I actively use AI to accelerate delivery while keeping engineering quality high.
 
 ### How I work with AI
 
-- **Plan-first approach:** define scope, constraints, and acceptance criteria before coding
+- **Plan-first approach:** define scope, constraints and acceptance criteria before coding
 - **Agentic implementation loops:** design → implement → test → self-review → refine
-- **Human-in-the-loop decisions:** architecture, trade-offs, and risk decisions stay explicit
-- **Quality guardrails:** tests, linting, contracts, and reproducible workflows are non-negotiable
+- **Human-in-the-loop decisions:** architecture, trade-offs and risk decisions stay explicit
+- **Quality guardrails:** tests, linting, contracts and reproducible workflows are non-negotiable
 
 ### What I optimize for
 
@@ -43,8 +43,8 @@ I actively use AI to accelerate delivery while keeping engineering quality high.
 
 ## 🧠 Current Focus
 
-- **Backend Engineering:** APIs, microservices, event-driven systems, and data-intensive workflows
-- **Architecture:** DDD, clean boundaries, and pragmatic observability
+- **Backend Engineering:** APIs, microservices, event-driven systems and data-intensive workflows
+- **Architecture:** DDD, clean boundaries and pragmatic observability
 - **Execution:** fast iteration loops with quality gates and measurable outcomes
 - **AI-native Delivery:** practical agentic workflows that improve speed and reliability
 
