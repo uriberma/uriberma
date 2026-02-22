@@ -5,11 +5,7 @@
   </p>
 
   <p>
-    I build robust backend platforms and products with a strong focus on
-    <strong>reliability</strong>, <strong>scalability</strong> and <strong>clean architecture</strong>.
-    <br />
-    Currently, I’m heavily focused on <strong>Go-based backend systems</strong>,
-    <strong>distributed architectures</strong> and <strong>AI-assisted engineering workflows</strong>.
+    I build robust backend platforms and products with a strong focus on reliability, scalability and clean architecture — currently centered on Go-based backend systems, distributed architectures and AI-assisted engineering workflows.
   </p>
 
   <a href="https://www.linkedin.com/in/maycol-uribe-romero-209995119/">
@@ -24,20 +20,12 @@
 
 ## 🤖 AI & Agentic Coding
 
-I actively use AI to accelerate delivery while keeping engineering quality high.
+I use AI to accelerate delivery without compromising engineering quality.
 
-### How I work with AI
-
-- **Plan-first approach:** define scope, constraints and acceptance criteria before coding
-- **Agentic implementation loops:** design → implement → test → self-review → refine
-- **Human-in-the-loop decisions:** architecture, trade-offs and risk decisions stay explicit
-- **Quality guardrails:** tests, linting, contracts and reproducible workflows are non-negotiable
-
-### What I optimize for
-
-- Faster delivery without losing correctness
-- Better code reviews and safer refactors
-- Stronger documentation and clearer technical decisions
+- **Plan first:** define scope, constraints and acceptance criteria before coding
+- **Agentic loops:** design → implement → test → self-review → refine
+- **Human-in-the-loop decisions:** architecture, trade-offs and risk stay explicit
+- **Quality outcomes:** faster delivery, safer refactors and clearer technical documentation
 
 ---
 
