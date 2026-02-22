@@ -1,16 +1,15 @@
 <div align="center">
-  <h1>Hola!, I'm Maycol Romero! 👋</h1>
+  <h1>Hey, I'm Maycol Romero 👋</h1>
   <p>
-    <strong>Backend Engineer | Cloud Native Architecture | DevOps Enthusiast</strong>
+    <strong>Backend Engineer · Cloud-Native Systems · AI + Agentic Coding</strong>
   </p>
-  
+
   <p>
-    I specialize in designing and scaling <strong>distributed microservices</strong> and <strong>event-driven architectures</strong>.
-    My focus has shifted entirely to the backend, ensuring robust IaaS platforms using <strong>Java, Kotlin, and Golang</strong>.
-    <br><br>
-    I am a practitioner of <strong>Clean Code</strong> and <strong>Domain Driven Design</strong>, believing that:
-    <br>
-    <em>"Truth can only be found in one place: the code."</em> — Robert C. Martin
+    I build robust backend platforms and products with a strong focus on
+    <strong>reliability</strong>, <strong>scalability</strong>, and <strong>clean architecture</strong>.
+    <br />
+    Currently, I’m heavily focused on <strong>Go-based backend systems</strong>,
+    <strong>EU e-invoicing infrastructure</strong>, and <strong>AI-assisted engineering workflows</strong>.
   </p>
 
   <a href="https://www.linkedin.com/in/maycol-uribe-romero-209995119/">
@@ -23,47 +22,66 @@
 
 ---
 
-### 🏗️ Backend Tech Stack
+## 🧠 Current Focus
+
+- **Backend Engineering:** APIs, microservices, event-driven systems, and data-intensive workflows
+- **Domain:** EU e-invoicing (EN 16931, XRechnung, ZUGFeRD/Factur-X, PEPPOL)
+- **Architecture:** DDD, clean boundaries, and pragmatic observability
+- **Execution:** fast iteration loops with quality gates and measurable outcomes
+
+---
+
+## 🤖 AI & Agentic Coding
+
+I actively use AI to accelerate delivery while keeping engineering quality high.
+
+### How I work with AI
+
+- **Plan-first approach:** define scope, constraints, and acceptance criteria before coding
+- **Agentic implementation loops:** design → implement → test → self-review → refine
+- **Human-in-the-loop decisions:** architecture, trade-offs, and risk decisions stay explicit
+- **Quality guardrails:** tests, linting, contracts, and reproducible workflows are non-negotiable
+
+### What I optimize for
+
+- Faster delivery without losing correctness
+- Better code reviews and safer refactors
+- Stronger documentation and clearer technical decisions
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
-
-  <br>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
-
-  <br>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
-
-</div>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <br>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <br />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <br />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=swagger&logoColor=white" alt="OpenAPI" />
 </div>
 
 ---
 
-### ⚡ Engineering Philosophy
+## ⚡ Engineering Principles
 
-I focus on building scalable systems where reliability is paramount. My current work involves:
-* **Microservices:** Building decoupled services using **Quarkus** and **Spring Boot**.
-* **Observability:** Integrating Monitoring and Security with Keycloak, Prometheus, and Grafana.
-* **Orchestration:** deploying containerized applications on **Kubernetes** using Helm.
+- Build systems that are easy to reason about under pressure
+- Prefer clear contracts over hidden coupling
+- Measure impact, don’t guess
+- Keep it simple, but not simplistic
+
+> *"Truth can only be found in one place: the code."* — Robert C. Martin
 
 ---
 
 <div align="center">
-  <p>💻 <i>Let's build scalable backend solutions!</i> ✨</p>
+  <p>
+    🚀 Always shipping, always learning.<br />
+    If you're building serious backend products, let’s connect.
+  </p>
 </div>
