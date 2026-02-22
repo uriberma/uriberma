@@ -9,7 +9,7 @@
     <strong>reliability</strong>, <strong>scalability</strong>, and <strong>clean architecture</strong>.
     <br />
     Currently, I’m heavily focused on <strong>Go-based backend systems</strong>,
-    <strong>EU e-invoicing infrastructure</strong>, and <strong>AI-assisted engineering workflows</strong>.
+    <strong>distributed architectures</strong>, and <strong>AI-assisted engineering workflows</strong>.
   </p>
 
   <a href="https://www.linkedin.com/in/maycol-uribe-romero-209995119/">
@@ -19,15 +19,6 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
-
----
-
-## 🧠 Current Focus
-
-- **Backend Engineering:** APIs, microservices, event-driven systems, and data-intensive workflows
-- **Domain:** EU e-invoicing (EN 16931, XRechnung, ZUGFeRD/Factur-X, PEPPOL)
-- **Architecture:** DDD, clean boundaries, and pragmatic observability
-- **Execution:** fast iteration loops with quality gates and measurable outcomes
 
 ---
 
@@ -47,6 +38,15 @@ I actively use AI to accelerate delivery while keeping engineering quality high.
 - Faster delivery without losing correctness
 - Better code reviews and safer refactors
 - Stronger documentation and clearer technical decisions
+
+---
+
+## 🧠 Current Focus
+
+- **Backend Engineering:** APIs, microservices, event-driven systems, and data-intensive workflows
+- **Architecture:** DDD, clean boundaries, and pragmatic observability
+- **Execution:** fast iteration loops with quality gates and measurable outcomes
+- **AI-native Delivery:** practical agentic workflows that improve speed and reliability
 
 ---
 
