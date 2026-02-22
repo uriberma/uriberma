@@ -5,7 +5,7 @@
   </p>
 
   <p>
-    I build robust backend platforms and products with a strong focus on reliability, scalability and clean architecture — currently centered on Go-based backend systems, distributed architectures and AI-assisted engineering workflows.
+    I build robust backend platforms and products with a strong focus on reliability, scalability and clean architecture. Currently centered on Go-based backend systems, distributed architectures and AI-assisted engineering workflows.
   </p>
 
   <a href="https://www.linkedin.com/in/maycol-uribe-romero-209995119/">
